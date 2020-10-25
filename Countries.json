@@ -1,0 +1,2117 @@
+{
+    "ReferenceLists_Country":{
+       "FundamentalLookUp":{
+          "Countries":{
+             "Country":[
+                {
+                   "Code":"ABW",
+                   "ISO2Code":"AW",
+                   "Name":"Aruba",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"AFG",
+                   "ISO2Code":"AF",
+                   "Name":"Afghanistan",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"AGO",
+                   "ISO2Code":"AO",
+                   "Name":"Angola",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"AIA",
+                   "ISO2Code":"AI",
+                   "Name":"Anguilla",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"ALA",
+                   "ISO2Code":"AX",
+                   "Name":"Aland Islands"
+                },
+                {
+                   "Code":"ALB",
+                   "ISO2Code":"AL",
+                   "Name":"Albania",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"AND",
+                   "ISO2Code":"AD",
+                   "Name":"Andorra"
+                },
+                {
+                   "Code":"ANT",
+                   "ISO2Code":"AN",
+                   "Name":"Netherlands Antilles",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"ARE",
+                   "ISO2Code":"AE",
+                   "Name":"United Arab Emirates",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"ARG",
+                   "ISO2Code":"AR",
+                   "Name":"Argentina",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"ARM",
+                   "ISO2Code":"AM",
+                   "Name":"Armenia",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"ASM",
+                   "ISO2Code":"AS",
+                   "Name":"American Samoa"
+                },
+                {
+                   "Code":"ATA",
+                   "ISO2Code":"AQ",
+                   "Name":"Antarctica"
+                },
+                {
+                   "Code":"ATF",
+                   "ISO2Code":"TF",
+                   "Name":"French Southern Territories"
+                },
+                {
+                   "Code":"ATG",
+                   "ISO2Code":"AG",
+                   "Name":"Antigua and Barbuda",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"AUS",
+                   "ISO2Code":"AU",
+                   "Name":"Australia",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"AUT",
+                   "ISO2Code":"AT",
+                   "Name":"Austria",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"AZE",
+                   "ISO2Code":"AZ",
+                   "Name":"Azerbaijan",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"BDI",
+                   "ISO2Code":"BI",
+                   "Name":"Burundi",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"BEL",
+                   "ISO2Code":"BE",
+                   "Name":"Belgium",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"BEN",
+                   "ISO2Code":"BJ",
+                   "Name":"Benin",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"BFA",
+                   "ISO2Code":"BF",
+                   "Name":"Burkina Faso",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"BGD",
+                   "ISO2Code":"BD",
+                   "Name":"Bangladesh",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"BGR",
+                   "ISO2Code":"BG",
+                   "Name":"Bulgaria",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"BHR",
+                   "ISO2Code":"BH",
+                   "Name":"Bahrain",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"BHS",
+                   "ISO2Code":"BS",
+                   "Name":"Bahamas",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"BIH",
+                   "ISO2Code":"BA",
+                   "Name":"Bosnia and Herzegovina",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"BLM",
+                   "ISO2Code":"BL",
+                   "Name":"Saint Barthelemy",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"BLR",
+                   "ISO2Code":"BY",
+                   "Name":"Belarus",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"BLZ",
+                   "ISO2Code":"BZ",
+                   "Name":"Belize",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"BMU",
+                   "ISO2Code":"BM",
+                   "Name":"Bermuda",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"BOL",
+                   "ISO2Code":"BO",
+                   "Name":"Bolivia",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"BRA",
+                   "ISO2Code":"BR",
+                   "Name":"Brazil",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"BRB",
+                   "ISO2Code":"BB",
+                   "Name":"Barbados",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"BRN",
+                   "ISO2Code":"BN",
+                   "Name":"Brunei Darussalam",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"BTN",
+                   "ISO2Code":"BT",
+                   "Name":"Bhutan",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"BVT",
+                   "ISO2Code":"BV",
+                   "Name":"Bouvet Island"
+                },
+                {
+                   "Code":"BWA",
+                   "ISO2Code":"BW",
+                   "Name":"Botswana",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"CAF",
+                   "ISO2Code":"CF",
+                   "Name":"Central African Republic"
+                },
+                {
+                   "Code":"CAN",
+                   "ISO2Code":"CA",
+                   "Name":"Canada",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"CCK",
+                   "ISO2Code":"CC",
+                   "Name":"Cocos (Keeling) Islands"
+                },
+                {
+                   "Code":"CHE",
+                   "ISO2Code":"CH",
+                   "Name":"Switzerland",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"CHL",
+                   "ISO2Code":"CL",
+                   "Name":"Chile",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"CHN",
+                   "ISO2Code":"CN",
+                   "Name":"China",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"CIV",
+                   "ISO2Code":"CI",
+                   "Name":"Ivory Coast / Cote d'Ivoire",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"CMR",
+                   "ISO2Code":"CM",
+                   "Name":"Cameroon",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"COD",
+                   "ISO2Code":"CD",
+                   "Name":"Democratic Republic of Congo (Kinshasa)",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"COG",
+                   "ISO2Code":"CG",
+                   "Name":"Congo (Brazzaville)",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"COK",
+                   "ISO2Code":"CK",
+                   "Name":"Cook Islands",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"COL",
+                   "ISO2Code":"CO",
+                   "Name":"Colombia",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"COM",
+                   "ISO2Code":"KM",
+                   "Name":"Comoros",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"CPV",
+                   "ISO2Code":"CV",
+                   "Name":"Cape Verde",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"CRI",
+                   "ISO2Code":"CR",
+                   "Name":"Costa Rica",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"CUB",
+                   "ISO2Code":"CU",
+                   "Name":"Cuba"
+                },
+                {
+                   "Code":"CUW",
+                   "ISO2Code":"CW",
+                   "Name":"Curacao",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"CXR",
+                   "ISO2Code":"CX",
+                   "Name":"Christmas Island"
+                },
+                {
+                   "Code":"CYM",
+                   "ISO2Code":"KY",
+                   "Name":"Cayman Islands",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"CYP",
+                   "ISO2Code":"CY",
+                   "Name":"Cyprus",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"CZE",
+                   "ISO2Code":"CZ",
+                   "Name":"Czech Republic",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"DEU",
+                   "ISO2Code":"DE",
+                   "Name":"Germany",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"DJI",
+                   "ISO2Code":"DJ",
+                   "Name":"Djibouti",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"DMA",
+                   "ISO2Code":"DM",
+                   "Name":"Dominica"
+                },
+                {
+                   "Code":"DNK",
+                   "ISO2Code":"DK",
+                   "Name":"Denmark",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"DOM",
+                   "ISO2Code":"DO",
+                   "Name":"Dominican Republic",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"DZA",
+                   "ISO2Code":"DZ",
+                   "Name":"Algeria",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"ECU",
+                   "ISO2Code":"EC",
+                   "Name":"Ecuador",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"EGY",
+                   "ISO2Code":"EG",
+                   "Name":"Egypt",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"ERI",
+                   "ISO2Code":"ER",
+                   "Name":"Eritrea",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"ESH",
+                   "ISO2Code":"EH",
+                   "Name":"Western Sahara"
+                },
+                {
+                   "Code":"ESP",
+                   "ISO2Code":"ES",
+                   "Name":"Spain",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"EST",
+                   "ISO2Code":"EE",
+                   "Name":"Estonia",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"ETH",
+                   "ISO2Code":"ET",
+                   "Name":"Ethiopia",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"FIN",
+                   "ISO2Code":"FI",
+                   "Name":"Finland",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"FJI",
+                   "ISO2Code":"FJ",
+                   "Name":"Fiji",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"FLK",
+                   "ISO2Code":"FK",
+                   "Name":"Falkland Islands",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"FRA",
+                   "ISO2Code":"FR",
+                   "Name":"France",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"FRO",
+                   "ISO2Code":"FO",
+                   "Name":"Faroe Islands",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"FSM",
+                   "ISO2Code":"FM",
+                   "Name":"Micronesia"
+                },
+                {
+                   "Code":"GAB",
+                   "ISO2Code":"GA",
+                   "Name":"Gabon",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"GBR",
+                   "ISO2Code":"GB",
+                   "Name":"United Kingdom",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"GEO",
+                   "ISO2Code":"GE",
+                   "Name":"Georgia",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"GGY",
+                   "ISO2Code":"GG",
+                   "Name":"Guernsey",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"GHA",
+                   "ISO2Code":"GH",
+                   "Name":"Ghana",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"GIB",
+                   "ISO2Code":"GI",
+                   "Name":"Gibraltar",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"GIN",
+                   "ISO2Code":"GN",
+                   "Name":"Guinea",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"GLP",
+                   "ISO2Code":"GP",
+                   "Name":"Guadeloupe"
+                },
+                {
+                   "Code":"GMB",
+                   "ISO2Code":"GM",
+                   "Name":"Gambia",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"GNB",
+                   "ISO2Code":"GW",
+                   "Name":"Guinea-Bissau",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"GNQ",
+                   "ISO2Code":"GQ",
+                   "Name":"Equatorial Guinea"
+                },
+                {
+                   "Code":"GRC",
+                   "ISO2Code":"GR",
+                   "Name":"Greece",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"GRD",
+                   "ISO2Code":"GD",
+                   "Name":"Grenada",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"GRL",
+                   "ISO2Code":"GL",
+                   "Name":"Greenland",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"GTM",
+                   "ISO2Code":"GT",
+                   "Name":"Guatemala",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"GUF",
+                   "ISO2Code":"GF",
+                   "Name":"French Guiana",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"GUM",
+                   "ISO2Code":"GU",
+                   "Name":"Guam"
+                },
+                {
+                   "Code":"GUY",
+                   "ISO2Code":"GY",
+                   "Name":"Guyana",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"HKG",
+                   "ISO2Code":"HK",
+                   "Name":"Hong Kong",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"HMD",
+                   "ISO2Code":"HM",
+                   "Name":"Heard and McDonald Islands"
+                },
+                {
+                   "Code":"HND",
+                   "ISO2Code":"HN",
+                   "Name":"Honduras",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"HRV",
+                   "ISO2Code":"HR",
+                   "Name":"Croatia",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"HTI",
+                   "ISO2Code":"HT",
+                   "Name":"Haiti",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"HUN",
+                   "ISO2Code":"HU",
+                   "Name":"Hungary",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"IDN",
+                   "ISO2Code":"ID",
+                   "Name":"Indonesia",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"IMN",
+                   "ISO2Code":"IM",
+                   "Name":"Isle of Man",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"IND",
+                   "ISO2Code":"IN",
+                   "Name":"India",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"IOT",
+                   "ISO2Code":"IO",
+                   "Name":"British Indian Ocean Territory"
+                },
+                {
+                   "Code":"IRL",
+                   "ISO2Code":"IE",
+                   "Name":"Ireland",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"IRN",
+                   "ISO2Code":"IR",
+                   "Name":"Iran",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"IRQ",
+                   "ISO2Code":"IQ",
+                   "Name":"Iraq",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"ISL",
+                   "ISO2Code":"IS",
+                   "Name":"Iceland",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"ISR",
+                   "ISO2Code":"IL",
+                   "Name":"Israel",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"ITA",
+                   "ISO2Code":"IT",
+                   "Name":"Italy",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"JAM",
+                   "ISO2Code":"JM",
+                   "Name":"Jamaica",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"JEY",
+                   "ISO2Code":"JE",
+                   "Name":"Jersey",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"JOR",
+                   "ISO2Code":"JO",
+                   "Name":"Jordan",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"JPN",
+                   "ISO2Code":"JP",
+                   "Name":"Japan",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"KAZ",
+                   "ISO2Code":"KZ",
+                   "Name":"Kazakhstan",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"KEN",
+                   "ISO2Code":"KE",
+                   "Name":"Kenya",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"KGZ",
+                   "ISO2Code":"KG",
+                   "Name":"Kyrgyzstan",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"KHM",
+                   "ISO2Code":"KH",
+                   "Name":"Cambodia",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"KIR",
+                   "ISO2Code":"KI",
+                   "Name":"Kiribati"
+                },
+                {
+                   "Code":"KNA",
+                   "ISO2Code":"KN",
+                   "Name":"St. Kitts and Nevis",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"KOR",
+                   "ISO2Code":"KR",
+                   "Name":"South Korea",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"KWT",
+                   "ISO2Code":"KW",
+                   "Name":"Kuwait",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"LAO",
+                   "ISO2Code":"LA",
+                   "Name":"Laos"
+                },
+                {
+                   "Code":"LBN",
+                   "ISO2Code":"LB",
+                   "Name":"Lebanon",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"LBR",
+                   "ISO2Code":"LR",
+                   "Name":"Liberia",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"LBY",
+                   "ISO2Code":"LY",
+                   "Name":"Libya",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"LCA",
+                   "ISO2Code":"LC",
+                   "Name":"Saint Lucia"
+                },
+                {
+                   "Code":"LIE",
+                   "ISO2Code":"LI",
+                   "Name":"Liechtenstein",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"LKA",
+                   "ISO2Code":"LK",
+                   "Name":"Sri Lanka",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"LSO",
+                   "ISO2Code":"LS",
+                   "Name":"Lesotho",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"LTU",
+                   "ISO2Code":"LT",
+                   "Name":"Lithuania",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"LUX",
+                   "ISO2Code":"LU",
+                   "Name":"Luxembourg",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"LVA",
+                   "ISO2Code":"LV",
+                   "Name":"Latvia",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"MAC",
+                   "ISO2Code":"MO",
+                   "Name":"Macau",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"MAF",
+                   "ISO2Code":"MF",
+                   "Name":"Saint Martin (French part)",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"MAR",
+                   "ISO2Code":"MA",
+                   "Name":"Morocco",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"MCO",
+                   "ISO2Code":"MC",
+                   "Name":"Monaco",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"MDA",
+                   "ISO2Code":"MD",
+                   "Name":"Moldova",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"MDG",
+                   "ISO2Code":"MG",
+                   "Name":"Madagascar",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"MDV",
+                   "ISO2Code":"MV",
+                   "Name":"Maldives",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"MEX",
+                   "ISO2Code":"MX",
+                   "Name":"Mexico",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"MHL",
+                   "ISO2Code":"MH",
+                   "Name":"Marshall Islands",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"MKD",
+                   "ISO2Code":"MK",
+                   "Name":"Macedonia",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"MLI",
+                   "ISO2Code":"ML",
+                   "Name":"Mali",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"MLT",
+                   "ISO2Code":"MT",
+                   "Name":"Malta",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"MMR",
+                   "ISO2Code":"MM",
+                   "Name":"Myanmar",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"MNE",
+                   "ISO2Code":"ME",
+                   "Name":"Montenegro",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"MNG",
+                   "ISO2Code":"MN",
+                   "Name":"Mongolia",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"MNP",
+                   "ISO2Code":"MP",
+                   "Name":"Northern Mariana Islands"
+                },
+                {
+                   "Code":"MOZ",
+                   "ISO2Code":"MZ",
+                   "Name":"Mozambique",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"MRT",
+                   "ISO2Code":"MR",
+                   "Name":"Mauritania",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"MSR",
+                   "ISO2Code":"MS",
+                   "Name":"Montserrat"
+                },
+                {
+                   "Code":"MTQ",
+                   "ISO2Code":"MQ",
+                   "Name":"Martinique"
+                },
+                {
+                   "Code":"MUS",
+                   "ISO2Code":"MU",
+                   "Name":"Mauritius",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"MWI",
+                   "ISO2Code":"MW",
+                   "Name":"Malawi",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"MYS",
+                   "ISO2Code":"MY",
+                   "Name":"Malaysia",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"MYT",
+                   "ISO2Code":"YT",
+                   "Name":"Mayotte"
+                },
+                {
+                   "Code":"NAM",
+                   "ISO2Code":"NA",
+                   "Name":"Namibia",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"NCL",
+                   "ISO2Code":"NC",
+                   "Name":"New Caledonia"
+                },
+                {
+                   "Code":"NER",
+                   "ISO2Code":"NE",
+                   "Name":"Niger",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"NFK",
+                   "ISO2Code":"NF",
+                   "Name":"Norfolk Island"
+                },
+                {
+                   "Code":"NGA",
+                   "ISO2Code":"NG",
+                   "Name":"Nigeria",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"NIC",
+                   "ISO2Code":"NI",
+                   "Name":"Nicaragua",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"NIU",
+                   "ISO2Code":"NU",
+                   "Name":"Niue"
+                },
+                {
+                   "Code":"NLD",
+                   "ISO2Code":"NL",
+                   "Name":"Netherlands",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"NOR",
+                   "ISO2Code":"NO",
+                   "Name":"Norway",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"NPL",
+                   "ISO2Code":"NP",
+                   "Name":"Nepal",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"NRU",
+                   "ISO2Code":"NR",
+                   "Name":"Nauru"
+                },
+                {
+                   "Code":"NUL",
+                   "ISO2Code":"EU",
+                   "Name":"EU",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"NZL",
+                   "ISO2Code":"NZ",
+                   "Name":"New Zealand",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"OMN",
+                   "ISO2Code":"OM",
+                   "Name":"Oman",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"PAK",
+                   "ISO2Code":"PK",
+                   "Name":"Pakistan",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"PAN",
+                   "ISO2Code":"PA",
+                   "Name":"Panama",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"PCN",
+                   "ISO2Code":"PN",
+                   "Name":"Pitcairn"
+                },
+                {
+                   "Code":"PER",
+                   "ISO2Code":"PE",
+                   "Name":"Peru",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"PHL",
+                   "ISO2Code":"PH",
+                   "Name":"Philippines",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"PLW",
+                   "ISO2Code":"PW",
+                   "Name":"Palau"
+                },
+                {
+                   "Code":"PNG",
+                   "ISO2Code":"PG",
+                   "Name":"Papua New Guinea",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"POL",
+                   "ISO2Code":"PL",
+                   "Name":"Poland",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"PRI",
+                   "ISO2Code":"PR",
+                   "Name":"Puerto Rico",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"PRK",
+                   "ISO2Code":"KP",
+                   "Name":"North Korea",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"PRT",
+                   "ISO2Code":"PT",
+                   "Name":"Portugal",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"PRY",
+                   "ISO2Code":"PY",
+                   "Name":"Paraguay",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"PSE",
+                   "ISO2Code":"PS",
+                   "Name":"Palestine",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"PYF",
+                   "ISO2Code":"PF",
+                   "Name":"French Polynesia"
+                },
+                {
+                   "Code":"QAT",
+                   "ISO2Code":"QA",
+                   "Name":"Qatar",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"REU",
+                   "ISO2Code":"RE",
+                   "Name":"Reunion"
+                },
+                {
+                   "Code":"ROU",
+                   "ISO2Code":"RO",
+                   "Name":"Romania",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"RUS",
+                   "ISO2Code":"RU",
+                   "Name":"Russian Federation",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"RWA",
+                   "ISO2Code":"RW",
+                   "Name":"Rwanda",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"SAU",
+                   "ISO2Code":"SA",
+                   "Name":"Saudi Arabia",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"SDN",
+                   "ISO2Code":"SD",
+                   "Name":"Sudan",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"SEN",
+                   "ISO2Code":"SN",
+                   "Name":"Senegal",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"SGP",
+                   "ISO2Code":"SG",
+                   "Name":"Singapore",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"SGS",
+                   "ISO2Code":"GS",
+                   "Name":"South Georgia and South Sandwich Islands"
+                },
+                {
+                   "Code":"SHN",
+                   "ISO2Code":"SH",
+                   "Name":"Saint Helena"
+                },
+                {
+                   "Code":"SJM",
+                   "ISO2Code":"SJ",
+                   "Name":"Svalbard and Jan Mayen"
+                },
+                {
+                   "Code":"SLB",
+                   "ISO2Code":"SB",
+                   "Name":"Solomon Islands",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"SLE",
+                   "ISO2Code":"SL",
+                   "Name":"Sierra Leone",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"SLV",
+                   "ISO2Code":"SV",
+                   "Name":"El Salvador",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"SMR",
+                   "ISO2Code":"SM",
+                   "Name":"San Marino",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"SOM",
+                   "ISO2Code":"SO",
+                   "Name":"Somalia",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"SPM",
+                   "ISO2Code":"PM",
+                   "Name":"St. Pierre and Miquelon"
+                },
+                {
+                   "Code":"SRB",
+                   "ISO2Code":"RS",
+                   "Name":"Serbia",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"SSD",
+                   "ISO2Code":"SS",
+                   "Name":"South Sudan"
+                },
+                {
+                   "Code":"STP",
+                   "ISO2Code":"ST",
+                   "Name":"Sao Tome and Principe",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"SUR",
+                   "ISO2Code":"SR",
+                   "Name":"Suriname"
+                },
+                {
+                   "Code":"SVK",
+                   "ISO2Code":"SK",
+                   "Name":"Slovakia",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"SVN",
+                   "ISO2Code":"SI",
+                   "Name":"Slovenia",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"SWE",
+                   "ISO2Code":"SE",
+                   "Name":"Sweden",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"SWZ",
+                   "ISO2Code":"SZ",
+                   "Name":"Swaziland",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"SXM",
+                   "ISO2Code":"SX",
+                   "Name":"SINT MAARTEN (DUTCH PART)",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"SYC",
+                   "ISO2Code":"SC",
+                   "Name":"Seychelles",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"SYR",
+                   "ISO2Code":"SY",
+                   "Name":"Syria",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"TCA",
+                   "ISO2Code":"TC",
+                   "Name":"Turks and Caicos Islands",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"TCD",
+                   "ISO2Code":"TD",
+                   "Name":"Chad"
+                },
+                {
+                   "Code":"TGO",
+                   "ISO2Code":"TG",
+                   "Name":"Togo",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"THA",
+                   "ISO2Code":"TH",
+                   "Name":"Thailand",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"TJK",
+                   "ISO2Code":"TJ",
+                   "Name":"Tajikistan",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"TKL",
+                   "ISO2Code":"TK",
+                   "Name":"Tokelau"
+                },
+                {
+                   "Code":"TKM",
+                   "ISO2Code":"TM",
+                   "Name":"Turkmenistan"
+                },
+                {
+                   "Code":"TLS",
+                   "ISO2Code":"TL",
+                   "Name":"East Timor / Timor-Leste",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"TON",
+                   "ISO2Code":"TO",
+                   "Name":"Tonga"
+                },
+                {
+                   "Code":"TTO",
+                   "ISO2Code":"TT",
+                   "Name":"Trinidad and Tobago",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"TUN",
+                   "ISO2Code":"TN",
+                   "Name":"Tunisia",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"TUR",
+                   "ISO2Code":"TR",
+                   "Name":"Turkey",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"TUV",
+                   "ISO2Code":"TV",
+                   "Name":"Tuvalu"
+                },
+                {
+                   "Code":"TWN",
+                   "ISO2Code":"TW",
+                   "Name":"Taiwan",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"TZA",
+                   "ISO2Code":"TZ",
+                   "Name":"Tanzania",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"UGA",
+                   "ISO2Code":"UG",
+                   "Name":"Uganda",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"UKR",
+                   "ISO2Code":"UA",
+                   "Name":"Ukraine",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"UMI",
+                   "ISO2Code":"UM",
+                   "Name":"United States Minor Outlying Islands"
+                },
+                {
+                   "Code":"URY",
+                   "ISO2Code":"UY",
+                   "Name":"Uruguay",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"USA",
+                   "ISO2Code":"US",
+                   "Name":"United States",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"UZB",
+                   "ISO2Code":"UZ",
+                   "Name":"Uzbekistan",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"VAT",
+                   "ISO2Code":"VA",
+                   "Name":"Vatican City"
+                },
+                {
+                   "Code":"VCT",
+                   "ISO2Code":"VC",
+                   "Name":"St. Vincent and the Grenadines"
+                },
+                {
+                   "Code":"VEN",
+                   "ISO2Code":"VE",
+                   "Name":"Venezuela",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"VGB",
+                   "ISO2Code":"VG",
+                   "Name":"Virgin Islands (British)",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"VIR",
+                   "ISO2Code":"VI",
+                   "Name":"Virgin Islands (U.S.)",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"VNM",
+                   "ISO2Code":"VN",
+                   "Name":"Vietnam",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"VUT",
+                   "ISO2Code":"VU",
+                   "Name":"Vanuatu",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"WLF",
+                   "ISO2Code":"WF",
+                   "Name":"Wallis and Futuna Islands"
+                },
+                {
+                   "Code":"WSM",
+                   "ISO2Code":"WS",
+                   "Name":"Samoa",
+                   "Region":{
+                      "Code":"AP",
+                      "Value":"Asia Pacific"
+                   }
+                },
+                {
+                   "Code":"XCC",
+                   "ISO2Code":"XC",
+                   "Name":"Central and Eastern Europe"
+                },
+                {
+                   "Code":"XDR",
+                   "ISO2Code":"XD",
+                   "Name":"SDR",
+                   "Region":{
+                      "Code":"NA",
+                      "Value":"Americas"
+                   }
+                },
+                {
+                   "Code":"XEE",
+                   "ISO2Code":"XE",
+                   "Name":"Markit’s Emerging Markets"
+                },
+                {
+                   "Code":"XFF",
+                   "ISO2Code":"XF",
+                   "Name":"EU27"
+                },
+                {
+                   "Code":"XGG",
+                   "ISO2Code":"XG",
+                   "Name":"Global"
+                },
+                {
+                   "Code":"XKK",
+                   "ISO2Code":"XK",
+                   "Name":"Kosovo"
+                },
+                {
+                   "Code":"XTT",
+                   "ISO2Code":"XT",
+                   "Name":"EU15"
+                },
+                {
+                   "Code":"XWW",
+                   "ISO2Code":"XW",
+                   "Name":"World"
+                },
+                {
+                   "Code":"XZZ",
+                   "ISO2Code":"XZ",
+                   "Name":"Eurozone"
+                },
+                {
+                   "Code":"YEM",
+                   "ISO2Code":"YE",
+                   "Name":"Yemen",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"ZAF",
+                   "ISO2Code":"ZA",
+                   "Name":"South Africa",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"ZMB",
+                   "ISO2Code":"ZM",
+                   "Name":"Zambia",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                },
+                {
+                   "Code":"ZWE",
+                   "ISO2Code":"ZW",
+                   "Name":"Zimbabwe",
+                   "Region":{
+                      "Code":"EU",
+                      "Value":"Europe and Africa"
+                   }
+                }
+             ]
+          }
+       }
+    }
+ }
