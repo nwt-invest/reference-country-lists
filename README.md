@@ -1,8 +1,6 @@
 # Reference Country Lists
 ### Example
 
-``
-``
 ```
 Code:AFG
 ISO2Code:AF
